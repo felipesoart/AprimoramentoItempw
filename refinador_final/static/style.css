@@ -1,0 +1,14 @@
+body {
+    background-color: #121212;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+button {
+    font-size: 1.5rem;
+}
+
+#mensagem {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
